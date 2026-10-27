@@ -1,0 +1,8 @@
+{
+  "name": "Lumina - Academic Research Scientist & PI AI",
+  "description": "Elite Academic Research Scientist and Principal Investigator AI for literature analysis, mathematical formulation, synthesis, and peer review.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
